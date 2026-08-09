@@ -34,7 +34,5 @@
     <img src="https://www.gitskins.com/api/section/social?username=yassineerraji&theme=github-dark" alt="yassineerraji social section" />
   </picture>
 </p>
-## Connect
-Contact and social links will appear here.
 
 <!-- Sections: Header, Connect -->
