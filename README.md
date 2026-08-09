@@ -1,9 +1,5 @@
 # yassineerraji
 
-> Memorable developer positioning.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
 ## Header
 Hi, I'm **yassineerraji**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
