@@ -1,38 +1,16 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yassineerraji&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=yassineerraji&theme=github-dark" alt="yassineerraji hero section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=yassineerraji&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=yassineerraji&theme=github-dark" alt="yassineerraji about section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yassineerraji&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=yassineerraji&theme=github-dark" alt="yassineerraji stats section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yassineerraji&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=yassineerraji&theme=github-dark" alt="yassineerraji stack section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yassineerraji&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=yassineerraji&theme=github-dark" alt="yassineerraji projects section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yassineerraji&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=yassineerraji&theme=github-dark" alt="yassineerraji social section" />
-  </picture>
-</p>
+<div align="center">
 
-<!-- Sections: Header, Connect -->
+<h3><code>yassine@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>yassine@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./yassine-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
